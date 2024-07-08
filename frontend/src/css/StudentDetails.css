@@ -1,0 +1,16 @@
+/* src/css/StudentDetails.css */
+
+.student-details {
+  background-color: #fff; /* White background for details */
+  padding: 20px;
+  border-radius: 0.375rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.student-details h1 {
+  color: #007bff; /* Bootstrap primary color */
+}
+
+.student-details p {
+  font-size: 1.1rem;
+}
